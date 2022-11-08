@@ -28,7 +28,7 @@
 <br>
 <br>
 <p align="center">
-    <img src="./figure5.png" alt="figure5" width="40%">
+    <img src="./figure5.PNG" alt="figure5" width="40%">
 </p>
 
 ---
